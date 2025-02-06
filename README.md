@@ -38,15 +38,6 @@ This project performs clustering analysis on the "Airline Passenger Satisfaction
 - Determine the number of clusters using a dendrogram
 - Visualize clustering results
 
-## How to Run the Code
-1. Install dependencies:
-   ```bash
-   pip install numpy pandas matplotlib seaborn scikit-learn scipy kagglehub pydot
-   ```
-2. Run the script:
-   ```bash
-   python clustering.py
-   ```
 
 ## Results
 - K-Means successfully clustered the dataset into two distinct groups
